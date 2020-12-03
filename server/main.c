@@ -7,6 +7,7 @@
 
 void serv() {
     printf("je suis la partie serveur\n");
+    printf("je fait plein de truc\n");
 }
 
 int main() {
